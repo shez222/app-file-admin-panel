@@ -31,7 +31,7 @@ const Products = () => {
       subjectName: 'Algebra',
       subjectCode: 'MATH101',
       price: 49.99,
-      image: 'https://via.placeholder.com/100',
+      image: 'https://th.bing.com/th/id/R.98267fb8788825d8e036dd2e2355803b?rik=dfr86vURH0leNQ&pid=ImgRaw&r=0',
       description: 'Comprehensive Algebra exam covering all topics.',
     },
     {
@@ -40,7 +40,7 @@ const Products = () => {
       subjectName: 'Mechanics',
       subjectCode: 'PHY201',
       price: 59.99,
-      image: 'https://via.placeholder.com/100',
+      image: 'https://images-na.ssl-images-amazon.com/images/I/51sPUiBtNNL.jpg',
       description: 'Advanced Mechanics exam for undergraduate students.',
     },
     {
@@ -49,7 +49,7 @@ const Products = () => {
       subjectName: 'Organic Chemistry',
       subjectCode: 'CHEM301',
       price: 54.99,
-      image: 'https://via.placeholder.com/100',
+      image: 'https://images-na.ssl-images-amazon.com/images/I/51sPUiBtNNL.jpg',
       description: 'Detailed Organic Chemistry exam covering synthesis and reactions.',
     },
     // Add more dummy products/exams as needed for testing pagination
@@ -59,7 +59,7 @@ const Products = () => {
       subjectName: 'Genetics',
       subjectCode: 'BIO401',
       price: 44.99,
-      image: 'https://via.placeholder.com/100',
+      image: 'https://th.bing.com/th/id/R.98267fb8788825d8e036dd2e2355803b?rik=dfr86vURH0leNQ&pid=ImgRaw&r=0',
       description: 'Genetics exam focusing on DNA replication and gene expression.',
     },
     {
@@ -68,7 +68,7 @@ const Products = () => {
       subjectName: 'Literature',
       subjectCode: 'ENG501',
       price: 39.99,
-      image: 'https://via.placeholder.com/100',
+      image: 'https://th.bing.com/th/id/OIP.ZhhhDx9uxUPLoZv-F0BYqAAAAA?w=385&h=500&rs=1&pid=ImgDetMain',
       description: 'Literature exam covering classical and modern works.',
     },
     {
@@ -77,7 +77,7 @@ const Products = () => {
       subjectName: 'Algorithms',
       subjectCode: 'CS601',
       price: 64.99,
-      image: 'https://via.placeholder.com/100',
+      image: 'https://images-na.ssl-images-amazon.com/images/I/51sPUiBtNNL.jpg',
       description: 'Algorithms exam testing problem-solving and computational thinking.',
     },
     {
@@ -86,7 +86,7 @@ const Products = () => {
       subjectName: 'World History',
       subjectCode: 'HIST701',
       price: 49.99,
-      image: 'https://via.placeholder.com/100',
+      image: 'https://th.bing.com/th/id/R.98267fb8788825d8e036dd2e2355803b?rik=dfr86vURH0leNQ&pid=ImgRaw&r=0',
       description: 'World History exam covering major historical events and figures.',
     },
     {
@@ -95,7 +95,7 @@ const Products = () => {
       subjectName: 'Physical Geography',
       subjectCode: 'GEO801',
       price: 45.99,
-      image: 'https://via.placeholder.com/100',
+      image: 'https://images-na.ssl-images-amazon.com/images/I/51sPUiBtNNL.jpg',
       description: 'Physical Geography exam focusing on earth systems and landscapes.',
     },
     {
@@ -104,7 +104,7 @@ const Products = () => {
       subjectName: 'Microeconomics',
       subjectCode: 'ECON901',
       price: 55.99,
-      image: 'https://via.placeholder.com/100',
+      image: 'https://th.bing.com/th/id/OIP.ZhhhDx9uxUPLoZv-F0BYqAAAAA?w=385&h=500&rs=1&pid=ImgDetMain',
       description: 'Microeconomics exam covering supply and demand, market structures.',
     },
     {
@@ -113,7 +113,7 @@ const Products = () => {
       subjectName: 'Modern Art',
       subjectCode: 'ART1001',
       price: 42.99,
-      image: 'https://via.placeholder.com/100',
+      image: 'https://th.bing.com/th/id/R.98267fb8788825d8e036dd2e2355803b?rik=dfr86vURH0leNQ&pid=ImgRaw&r=0',
       description: 'Modern Art exam exploring various art movements and techniques.',
     },
     // ... add more products/exams as needed
