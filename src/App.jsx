@@ -18,16 +18,19 @@ const App = () => {
     <Router>
       <Routes>
         {/* Public Routes */}
-        <Route path="/login" element={!isAuthenticated ? <Login /> : <Navigate to="/" replace />} />
-        <Route path="/register" element={!isAuthenticated ? <Register /> : <Navigate to="/" replace />} />
+        {/* <Route path="/login" element={!isAuthenticated ? <Login /> : <Navigate to="/" replace />} />
+        <Route path="/register" element={!isAuthenticated ? <Register /> : <Navigate to="/" replace />} /> */}
 
         {/* Protected Routes */}
         {/* <Route
           path="/"
           element={isAuthenticated ? <Layout /> : <Navigate to="/login" replace />}
         > */}
+        <Route path="/" element={<Register /> } />
+
+        <Route path="/login" element={<Login /> } />
         <Route
-          path="/"
+          path="/Dashboard"
           element={ <Layout /> }
         >
           <Route index element={<Dashboard />} />

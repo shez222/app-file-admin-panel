@@ -39,7 +39,7 @@ const Login = () => {
       setTimeout(() => {
         // Here, you can add any pre-navigation logic if needed
         // For now, we'll navigate directly to the dashboard
-        navigate('/', { replace: true });
+        navigate('/Dashboard', { replace: true });
       }, 1000); // Simulated delay of 1 second
     },
   });
